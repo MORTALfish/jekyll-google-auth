@@ -1,5 +1,5 @@
 source "https://rubygems.org"
 
-gem 'sinatra-google-auth', :git => 'git@github.com:apcj/sinatra-google-auth.git'
+gem 'sinatra-google-auth', :git => 'https://github.com/mortalfish/sinatra-google-auth.git'
 
 gemspec
